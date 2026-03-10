@@ -1,0 +1,2 @@
+[console_scripts]
+mdlm = mdlm.cli:main
